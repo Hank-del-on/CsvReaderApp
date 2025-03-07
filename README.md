@@ -4,6 +4,10 @@ Dubble \\ in file path folder
 
 dotnet run 
 
+line 11 in program.cs is path local change this to make it functional V
+
+ string filePath = "path_to_your_csv_file.csv"; // Change this to your CSV file path
+
 namespace CsvReaderApp
 {
     public class Camera
